@@ -9,7 +9,8 @@ tradeItApi
 
 **StatelessTradeItApiClient.java**
 
-see      **createTradeItApi()** on how to pass an existing http client
+see  **createTradeItApi()** on how to pass an existing http client
+
 --------
 
 
