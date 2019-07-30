@@ -14,3 +14,4 @@ see  **createTradeItApi()** on how to pass an existing http client
 --------
 
 
+Nice Kotlin resource: [http://kotlination.com/](http://kotlination.com/)
