@@ -1,6 +1,6 @@
 **Using Retrofit / okHttp**
 
-[https://www.youtube.com/watch?v=wfk_0ZQwixs](https://www.youtube.com/watch?v=wfk_0ZQwixs)
+[https://www.youtube.com/watch?v=wfk_0ZQwixs](https://www.youtube.com/watch?v=wfk_0ZQwixs) - explains overall concept + how to create/run Retrofit client
 
 tradeItApi
 [https://www.trade.it/api](https://www.trade.it/api)
